@@ -37,7 +37,7 @@ Os artefatos e componentes entregues neste projeto estão subdivididos em três 
 
 **Documentação Técnica**
 
-* [Especificação da Disciplina](/docs/TP02_Deteccao_Cortes.pdf): Documento original contendo os requisitos, diretrizes teóricas e formato de validação do trabalho.
+* [Relatório Teórico](/docs/TP02_Deteccao_Cortes.pdf): Contém a análise detalhada dos resultados, tabelas comparativas com os frames identificados, discussão dos limiares e matrizes de confusão.
 
 * [Guia do Repositório](/README.md): Guia completo de estrutura, instruções de execução, decisões teóricas e detalhamento de saídas.
 
